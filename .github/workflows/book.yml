@@ -26,7 +26,7 @@ jobs:
 
     - name: Download the Book Template
       run: |
-        curl -L https://github.com/Wandmalfarbe/pandoc-latex-template/releases/download/v2.0.0/Eisvogel.tar.gz | tar -xz eisvogel.latex
+        curl -L https://github.com/AaronNGray/pandoc-latex-template/releases/download/v2.0.0/Eisvogel.tar.gz | tar -xz eisvogel.latex
 
     - name: Build Some LaTeX
       run: |
