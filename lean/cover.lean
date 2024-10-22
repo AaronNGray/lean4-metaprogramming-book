@@ -8,6 +8,7 @@ date: "Formatted for PDF by Julian Berman using [Pascal Wagler's Template](https
 mainfont: "DejaVu Serif"
 monofont: "DejaVu Sans Mono"
 book: true
+twoside: true
 header-right: "."
 titlepage: true
 titlepage-color: "FFFFFF"
